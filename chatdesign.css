@@ -1,0 +1,13 @@
+.page{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    height:529px;
+    width:376px;
+
+}
+.name{
+    color:#ffffff;
+    text-align:center;
+    font-family:Roboto ;
+    background-color: #323f4b;
+
+}
